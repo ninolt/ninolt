@@ -1,6 +1,6 @@
 ## Nino Lalanne-Tisné
 
-📊 Apprentice Data & AI • Python Developper @ La Banque Postale
+📊 Apprentice Data & AI • AI Engineer @ La Banque Postale
 
 ### About me
 
