@@ -1,6 +1,6 @@
 ## Nino Lalanne-Tisné
 
-📊 Apprentice Data & AI • AI Engineer @ La Banque Postale
+📊 AI Engineer @ La Banque Postale
 
 ### About me
 
